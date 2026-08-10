@@ -1,40 +1,132 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Acoma",
+		"adjective": ["Pueblo"],
+		"cityStateType": "Mercantile",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		//"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		//"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [237,200,65],
+		"cities": ["Acoma"],
+	},
+	{
+		"name": "Daajing Giids",
+		"adjective": ["Haida"],
+		"cityStateType": "Maritime",
 
-		"hateHello": "What do you want now?",
-		//"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		//"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		//"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-		"denounced": "The accusations of primitive lifeforms are beneath us.",
-		"declaringfriendship": "Let us become like friends!",
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [237,19,19],
+		"cities": ["Daajing Giids"],
+	},
+	{
+		"name": "Panama",
+		"adjective": ["Panamanian"],
+		"cityStateType": "Mercantile",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
-]
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [27,186,255],
+		"cities": ["Panama City"],
+	},
+	{
+	    "name": "Dhaka",
+		"adjective": "Dakhaite",
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [44,146,29],
+		"cities": ["Dhaka"],
+	},
+	{
+		"name": "Lagos",
+		"adjective": ["Lagosian"],
+		"cityStateType": "Maritime",
+		
+		"declaringWar": "You leave us no choice, War it must be."
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,136,80],
+		"cities": ["Lagos"],
+	},
+	{
+		"name": "McMurdo",
+		"adjective": ["Antarctic"],
+		"cityStateType": "Scientific",
+		
+		"declaringWar": "You leave us no choice, War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Please take care of our penguins while you're here.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [200,240,255],
+		"cities": ["McMurdo"],
+	},
+	{
+		"name": "Port Moresby",
+		"adjective": ["Papua New Guinean"],
+		"cityStateType": "Mercantile",
+		
+		"declaringWar": "You leave us no choice, War it must be."
+		"attacked": "Very well, this shall not be forgotten."
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [201,7,42],
+		"cities": ["Port Moresby"],
+	},
+	{
+		"name": "Dubai",
+		"adjective": ["Dubaian"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Please take care of our tower while you're here.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [34,175,46],
+		"cities": ["Dubai"],
+	},
+	{
+		"name": "Tae Rak",
+		"adjective": ["Gunditjmara"],
+		"cityStateType": ["Maritime"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"defeated": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [22,160,50],
+		"cities": ["Tae Rak"],
+	},
+	{
+		"name": "Vatican City",
+		"adjective": ["Vatican"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "By God's grace we will not allow these atrocities to occur any longer. We declare war!",
+		"attacked": "May God have mercy on your evil soul.",
+		"defeated": "I for one welcome our new conquer overlord!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [242,240,120],
+		"cities": ["Vatican City"],
+	},
+	{
+		"name": "Sentinels",
+		"adjective": "Sentinel"
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "*Aggressive unintelligible*",
+		"attacked": "*Offended unintelligible*",
+		"defeated": "*Sad unintelligible*",
+		"outerColor": [0, 0, 0],
+		"innerColor": [120,10,10],
+		"cities": ["Sentinal"],
