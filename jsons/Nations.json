@@ -160,6 +160,18 @@
         "uniques": ["Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"]
 	},
 	{
+		"name": "Lagos",
+		"adjective": ["Lagosian"],
+		"cityStateType": "Maritime",
+		
+		"declaringWar": "You leave us no choice, War it must be."
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,136,80],
+		"cities": ["Lagos"],
+	},
+	{
 		"name": "Manila",
 		"adjective": ["Manilan"],
 		"cityStateType": "Maritime",
@@ -245,6 +257,18 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [51, 97, 242],
 		"cities": ["Sydney"]
+	},
+	{
+		"name": "Tae Rak",
+		"adjective": ["Gunditjmara"],
+		"cityStateType": "Maritime",
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"defeated": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [22,160,50],
+		"cities": ["Tae Rak"],
 	},
 	{
 		"name": "Ur", // Introduced in BNW
@@ -336,6 +360,18 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [167, 162, 216],
 		"cities": ["Colombo"]
+	},
+	{
+		"name": "Dhaka",
+		"adjective": "Dakhaite",
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [44,146,29],
+		"cities": ["Dhaka"],
 	},
 	{
 		"name": "Dubai",
@@ -658,6 +694,7 @@
 		"innerColor": [167, 162, 216],
 		"cities": ["Wittenberg"]
 	},
+	
 	{
 		"name": "McMurdo",
 		"adjective": ["Antarctic"],
