@@ -1,5 +1,6 @@
 [
     {
+        // I put all of the originals here, in case I want to change the stats of these
         "name": "Cultured",
         "friendBonusUniques": [
             "[+3 Culture] <before the [Medieval era]>",
@@ -80,5 +81,9 @@
             "[+26 Production] <starting from the [Industrial era]>",
         ],
         "color": [191, 78, 0]
-    }
+    },
+    {
+        // I dunno
+        "name": "Isolationist",
+        "color": [190, 190, 190]
 ]
