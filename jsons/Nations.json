@@ -135,6 +135,18 @@
 		"cities": ["Cape Town"]
 	},
 	{
+		"name": "Daajing Giids",
+		"adjective": ["Haida"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [237,19,19],
+		"cities": ["Daajing Giids"],
+	},
+	{
 		"name": "Helsinki", // In GK, Helsinki becomes a Swedish city.
 		"adjective": ["Helsinkian"],
 		"cityStateType": "Maritime",
@@ -326,6 +338,19 @@
 		"cities": ["Colombo"]
 	},
 	{
+		"name": "Dubai",
+		"adjective": ["Dubaian"],
+		"cityStateType": "Mercantile",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Please take care of our tower while you're here.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [34,175,46],
+		"cities": ["Dubai"]
+	},
+	{
 		"name": "Genoa",
 		"adjective": ["Genoese"],
 		"cityStateType": "Mercantile", // Changed from Maritime to Mercantile in GK
@@ -349,6 +374,30 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [52, 97, 242],
 		"cities": ["Hong Kong"]
+	},
+	{
+		"name": "Panama",
+		"adjective": ["Panamanian"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [27,186,255],
+		"cities": ["Panama City"]
+	},
+	{
+		"name": "Port Moresby",
+		"adjective": ["Papua New Guinean"],
+		"cityStateType": "Mercantile",
+		
+		"declaringWar": "You leave us no choice, War it must be."
+		"attacked": "Very well, this shall not be forgotten."
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [201,7,42],
+		"cities": ["Port Moresby"]
 	},
 	{
 		"name": "Singapore",
@@ -488,6 +537,18 @@
 		"uniques": ["Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"]
 	},
 	{
+		"name": "Sentinels",
+		"adjective": "Sentinelese"
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "*Aggressive unintelligible*",
+		"attacked": "*Offended unintelligible*",
+		"defeated": "*Sad unintelligible*",
+		"outerColor": [0, 0, 0],
+		"innerColor": [120,10,10],
+		"cities": ["Sentinal"]
+	},
+	{
 		"name": "Sidon",
 		"adjective": ["Sidonian"],
 		"cityStateType": "Militaristic",
@@ -542,8 +603,8 @@
 		"adjective": ["Jerusalemite"],
 		"cityStateType": "Religious",
 
-		"declaringWar": "By god's grace we will not allow these atrocities to occur any longer. We declare war!",
-		"attacked": "May god have mercy on your evil soul.",
+		"declaringWar": "By God's grace we will not allow these atrocities to occur any longer. We declare war!",
+		"attacked": "May God have mercy on your evil soul.",
 		"defeated": "I for one welcome our new conquer overlord!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255, 255, 255],
@@ -554,8 +615,8 @@
 		"adjective": ["La Venta"],
 		"cityStateType": "Religious",
 
-		"declaringWar": "By god's grace we will not allow these atrocities to occur any longer. We declare war!",
-		"attacked": "May god have mercy on your evil soul.",
+		"declaringWar": "By God's grace we will not allow these atrocities to occur any longer. We declare war!",
+		"attacked": "May God have mercy on your evil soul.",
 		"defeated": "I for one welcome our new conquer overlord!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [18, 188, 221],
@@ -578,8 +639,8 @@
 		"adjective": ["Vaticano"],
 		"cityStateType": "Religious",
 
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
+		"declaringWar": "By God's grace we will not allow these atrocities to occur any longer. We declare war!",
+		"attacked": "May God have mercy on your evil soul.",
 		"defeated": "Perhaps now we will find peace in death...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [246, 253, 160],
@@ -596,5 +657,17 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [167, 162, 216],
 		"cities": ["Wittenberg"]
+	},
+	{
+		"name": "McMurdo",
+		"adjective": ["Antarctic"],
+		"cityStateType": "Scientific",
+		
+		"declaringWar": "You leave us no choice, War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Please take care of our penguins while you're here.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [200,240,255],
+		"cities": ["McMurdo"]
 	},
 ]
