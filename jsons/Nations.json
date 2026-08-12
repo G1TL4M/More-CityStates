@@ -412,6 +412,17 @@
 		"cities": ["Hong Kong"]
 	},
 	{
+		"name": "Nan Madol",
+		"adjective": ["Nan Madolian"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "I didn't want to do this. We declare war.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We were too weak to protect ourselves...",
+		"innerColor": [121, 87, 247],
+		"cities": ["Nan Madol"]
+	},
+	{
 		"name": "Panama",
 		"adjective": ["Panamanian"],
 		"cityStateType": "Mercantile",
