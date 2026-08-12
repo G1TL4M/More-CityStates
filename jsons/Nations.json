@@ -284,6 +284,9 @@
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [237, 200, 65],
+		"cities": ["Acoma"]
 	},
 	{
 		"name": "Antwerp",
