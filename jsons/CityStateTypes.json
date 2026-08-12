@@ -85,6 +85,8 @@
     {
         // I dunno
         "name": "Isolationist",
+        "friendBonusUniques": ["Provides nothing"],
+        "allyBonusUniques": ["Provides nothing"],
         "color": [190, 190, 190]
     }
 ]
