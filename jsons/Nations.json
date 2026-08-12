@@ -1,5 +1,6 @@
 [
 		// City-States sorted by cityStateType, name
+	// I added the originals in case I wanted to change them
 	{
 		"name": "Brussels",
 		"adjective": ["Bruxellois"],
@@ -274,6 +275,16 @@
 		"cities": ["Venice"]
 	},
 
+	{
+		"name": "Acoma",
+		"adjective": ["Pueblo"],
+		"cityStateType": "Mercantile",
+		"startBias": ["Desert"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+	},
 	{
 		"name": "Antwerp",
 		"adjective": ["Antwerpenaar", "Antwerpian"],
