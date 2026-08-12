@@ -14,7 +14,7 @@
 	{
 		"name": "Daajing Giids",
 		"adjective": ["Haida"],
-		"cityStateType": "Maritime",
+		"cityStateType": ["Maritime"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -50,7 +50,7 @@
 	{
 		"name": "Lagos",
 		"adjective": ["Lagosian"],
-		"cityStateType": "Maritime",
+		"cityStateType": ["Maritime"],
 		
 		"declaringWar": "You leave us no choice, War it must be."
 		"attacked": "Very well, this shall not be forgotten.",
