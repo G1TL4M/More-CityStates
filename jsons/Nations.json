@@ -155,9 +155,9 @@
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten",
 		"defeated": "Perhaps, in another world, we could have been friends...",
-		"outerColor", [0, 0, 0],
-		"innerColor", [230, 215, 30],
-		"cities", ["Germa"],
+		"outerColor": [0, 0, 0],
+		"innerColor": [230, 215, 30],
+		"cities": ["Germa"],
 		"civelopediaText": [
 			{"text": "Historically, this city state was located far from a coast  so calling it maritime sounds wrong  but it makes it produce food so I'm keeping it like that"}
 		]
