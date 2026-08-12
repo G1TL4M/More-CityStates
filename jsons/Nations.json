@@ -143,8 +143,24 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
-		"innerColor": [237,19,19],
+		"innerColor": [237, 19, 19],
 		"cities": ["Daajing Giids"],
+	},
+	{
+		"name": "Germa",
+		"adjective": ["Garamantes"],
+		"cityStateType": "Maritime",
+		"startBias": ["[Desert]","Avoid [Coast]"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor", [0, 0, 0],
+		"innerColor", [230, 215, 30],
+		"cities", "Germa",
+		"civelopediaText": [
+			{"text": "Historically, this city state was located far from a coast  so calling it maritime sounds wrong  but it makes it produce food so I'm keeping it like that"}
+		]
 	},
 	{
 		"name": "Helsinki", // In GK, Helsinki becomes a Swedish city.
