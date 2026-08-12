@@ -315,7 +315,7 @@
 		"name": "Acoma",
 		"adjective": ["Pueblo"],
 		"cityStateType": "Mercantile",
-		"startBias": ["Desert"],
+		"startBias": ["Desert", "Hill"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -415,6 +415,7 @@
 		"name": "Nan Madol",
 		"adjective": ["Nan Madolian"],
 		"cityStateType": "Mercantile",
+		"startBias": ["Coast"]
 
 		"declaringWar": "I didn't want to do this. We declare war.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -427,6 +428,7 @@
 		"name": "Panama",
 		"adjective": ["Panamanian"],
 		"cityStateType": "Mercantile",
+		"startBias": ["Coast"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -439,6 +441,7 @@
 		"name": "Port Moresby",
 		"adjective": ["Papua New Guinean"],
 		"cityStateType": "Mercantile",
+		"startBias": ["Coast"],
 		
 		"declaringWar": "You leave us no choice, War it must be."
 		"attacked": "Very well, this shall not be forgotten."
@@ -588,6 +591,7 @@
 		"name": "Sentinels",
 		"adjective": "Sentinelese"
 		"cityStateType": "Militaristic",
+		"startBias": ["Coast"],
 
 		"declaringWar": "*Aggressive unintelligible*",
 		"attacked": "*Offended unintelligible*",
@@ -711,6 +715,7 @@
 		"name": "McMurdo",
 		"adjective": ["Antarctic"],
 		"cityStateType": "Scientific",
+		"startBias": ["Snow"],
 		
 		"declaringWar": "You leave us no choice, War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
