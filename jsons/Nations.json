@@ -504,6 +504,18 @@
 		"cities": ["Singapore"]
 	},
 	{
+		"name": "Solnitsata", // Reverse Given from YACM  changed from religious to mercantile because of the Wikipedia page
+		"adjective": ["Solnitsata"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [181, 226, 126],
+		"cities": ["Solnitsata"]
+	},
+	{
 		"name": "Tyre",
 		"adjective": ["Tyrian"],
 		"cityStateType": "Mercantile", // Changed from Militaristic to Mercantile in GK
