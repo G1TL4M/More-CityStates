@@ -1,6 +1,5 @@
 [
     {
-        // I put all of the originals here, in case I want to change the stats of these
         "name": "Cultured",
         "friendBonusUniques": [
             "[+3 Culture] <before the [Medieval era]>",
@@ -70,18 +69,29 @@
     },
     {
         "name": "Productive",
-        "friendBonusUniques":  [
-            "[+3 Production] <before the [Medieval era]>",
-            "[+6 Production] <starting from the [Medieval era]> <before starting the [Industrial era]>",
-            "[+13 Production] <starting from the [Industrial era]>",
+        "friendBonusUniques": [
+            "[+10]% [Production] [in capital]"
         ],
-        "allyBonusUniques":  [
-            "[+6 Production] <before the [Medieval era]>",
-            "[+12 Production] <starting from the [Medieval era]> <before starting the [Industrial era]>",
-            "[+26 Production] <starting from the [Industrial era]>",
+        "allyBonusUniques": [
+            "[+20]% [Production] [in all cities]"
         ],
         "color": [191, 78, 0]
     },
+    {
+        "name": "Strategic",
+        "friendBonusUniques": [
+            "[+5]% [Production] [in capital] <before the [Medieval era]>",
+            "[+10]% [Production] [in capital] <starting from the [Medieval era]>"
+        ],
+        "allyBonusUniques": [
+            "[+10]% [Production] [in all cities] <before the [Medieval era]>",
+            "[+15]% [Production] [in all cities] <starting from the [Medieval era]>",
+            "Provides [2] [Iron]"
+            //this is a filler until i get it to provide random strategic resources
+        ],
+        "color": [133, 81, 53]
+    },
+    
     {
         // I dunno
         "name": "Isolationist",
