@@ -122,6 +122,18 @@
 		"cities": ["Prague"]
 	},
 	{
+		"name": "Sanxingdui", // Yoinked from YACM
+		"adjective": ["Sanxingdui"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "You fiend! History shall remember this!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [151, 89, 202],
+		"cities": ["Sanxingdui"]
+	},
+	{
 		"name": "Yerevan",
 		"adjective": ["Yerevantsi"],
 		"cityStateType": "Cultured",
