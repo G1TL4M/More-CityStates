@@ -1,6 +1,6 @@
 [
 	{
-	"name": "Exotic Animals",
+		"name": "Exotic Animals",
 		"resourceType": "Luxury",
 		"gold": 2,
 		"uniques": ["Can only be created by Mercantile City-States"]
