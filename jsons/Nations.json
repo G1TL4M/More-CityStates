@@ -501,8 +501,8 @@
 	},
 	{
 		"name": "Great Zimbabwe",
-		"adjective": "Zimbabwean",
-		"cityStateType": ["Mercantile"],
+		"adjective": ["Zimbabwean"],
+		"cityStateType": "Mercantile",
 
 		"declaringWar": "You leave us no choice, War it must be."
 		"attacked": "Very well, this shall not be forgotten."
