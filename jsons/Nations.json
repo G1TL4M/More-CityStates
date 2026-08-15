@@ -93,8 +93,8 @@
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Today, the Ashanti people obey you, but do not think this is over...",
-		"innerColor": [0, 0, 0],
-		"outerColor": [225, 220, 87],
+		"outerColor": [0, 0, 0],
+		"innerColor": [225, 220, 87],
 		"cities": ["Kumasi"],
 	},
 	{
@@ -699,8 +699,21 @@
 		"cities": ["M'Banza-Kongo"],
 	},
 	{
+		"name": "Ngazargamu",
+		"adjective": ["Kanem-Bornu"],
+		"cityStateType": "Militaristic",
+		"startBias": ["Lake"],
+
+		"declaringWar": "Let's have a nice little War, shall we?",
+		"attacked": "If you need your nose bloodied, we'll happily serve.",
+		"defeated": "So this is how it feels to die...",
+		"outerColor": [0, 0, 0], // I remember seeing a sort of flag for it and it was brown with a white crescent, and I hope this at least is brown
+		"innerColor": [178, 128, 20],
+		"cities": ["Ngazargamu"]
+	},
+	{
 		"name": "Sentinels",
-		"adjective": "Sentinelese"
+		"adjective": ["Sentinelese"],
 		"cityStateType": "Militaristic",
 		"startBias": ["Coast"],
 
@@ -853,11 +866,21 @@
 		"startBias": ["Snow"],
 		
 		"declaringWar": "You leave us no choice, War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
+		"attacked": "Good luck against our antarctic winds.",
 		"defeated": "Please take care of our penguins while you're here.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [200,240,255],
 		"cities": ["McMurdo"]
+	},
+	{
+		"name": "Nalanda",
+		"adjective": ["Nalanda"],
+		"cityStateType": "Scientific",
+
+		"declaringWar": "You leave us no choice, War it must be."
+		"attacked": "Very well, this shall not be forgotten",
+		"defeated": "A wrong calculation, on my part.",
+		"cities": ["Nalanda"]
 	},
 	{
 		"name": "Taruga", // Civ 6 again
