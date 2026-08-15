@@ -38,6 +38,18 @@
 		"cities": ["Bucharest"]
 	},
 	{
+		"name": "Buenos Aires",
+		"adjectiv": ["Porteño", "Porteña"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [121, 226, 0],
+		"cities": ["Buenos Aires"]
+	},
+	{
 		"name": "Florence",
 		"adjective": ["Florentine"],
 		"cityStateType": "Cultured",
@@ -259,6 +271,18 @@
 		"innerColor": [255,178,102],
 		"cities": ["Helsinki"],
         "uniques": ["Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"]
+	},
+	{
+		"name": "Humaliwo",
+		"adjective": ["Chumash"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [90, 122, 226],
+		"cities": ["Humaliwo"]
 	},
 	{
 		"name": "Lagos",
@@ -872,6 +896,18 @@
 		"cities": ["Valletta"]
 	},
 
+	{
+		"name": "Alice Springs",
+		"adiective": ["Arrernte"],
+		"cityStateType": ["Religious"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [197, 167, 90],
+		"cities": ["Alice Springs"]
+	},
 	{
 		"name": "Bratislava",
 		"adjective": ["Bratislavan"],
