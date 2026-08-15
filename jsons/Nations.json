@@ -110,7 +110,7 @@
 		"cities": ["Milan"]
 	},
 	{
-		"name" "Mohenjo-Daro",
+		"name": "Mohenjo-Daro",
 		"adjective": ["Indus"],
 		"cityStateType": "Cultured",
 
