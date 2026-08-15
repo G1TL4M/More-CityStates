@@ -86,6 +86,18 @@
 		"cities": ["Kuala Lumpur"]
 	},
 	{
+		"name": "Kumasi",
+		"adjective": ["Kumasi"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Today, the Ashanti people obey you, but do not think this is over...",
+		"innerColor": [0, 0, 0],
+		"outerColor": [225, 220, 87],
+		"cities": ["Kumasi"],
+	},
+	{
 		"name": "Milan",
 		"adjective": ["Milanese"],
 		"cityStateType": "Cultured",
@@ -96,6 +108,18 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [225, 194, 129],
 		"cities": ["Milan"]
+	},
+	{
+		"name" "Mohenjo-Daro",
+		"adjective": ["Indus"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "You fiend! History shall remember this!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [210, 160, 250],
+		"cities": ["Mohenjo-Daro"]
 	},
 	{
 		"name": "Monaco",
@@ -120,6 +144,17 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [51, 97, 242],
 		"cities": ["Prague"]
+	},
+	{
+		"name": "Rapa Nui",
+		"adjective": ["Rapa Nui"],
+		"cityStateType": "Cultured",
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Please take care of our Moai while you're here.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [80, 0, 190],
+		"cities": ["Rapa Nui"]
 	},
 	{
 		"name": "Sanxingdui", // Yoinked from YACM
@@ -640,8 +675,20 @@
 		"cities": ["Hanoi"]
 	},
 	{
+		"name": "Lahore",
+		"adjective": ["Lahori"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "War lingers in our hearts. Why carry on with a false peace?",
+		"attacked": "We are no strangers to war. You have strayed from the right path, and now we will correct it.",
+		"defeated": "You are nothing but a glorified barbarian. Cruel, and ruthless.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [200, 80, 0],
+		"cities": ["Lahore"]
+	},
+	{
 		"name": "M'Banza-Kongo", // Introduced in BNW
-		"adjective": ["Angolan"],
+		"adjective": ["Angolan"], // added back because did they have an actual reason to remove this
 		"cityStateType": "Militaristic",
 
 		"declaringWar": "Do you really think you can walk over us so easily? I will not let it happen. Not to Kongo - not to my people!",
@@ -650,7 +697,6 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [18, 188, 221],
 		"cities": ["M'Banza-Kongo"],
-		"uniques": ["Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"]
 	},
 	{
 		"name": "Sentinels",
@@ -764,6 +810,18 @@
 		"cities": ["Lhasa"]
 	},
 	{
+		"name": "Nazca",
+		"adjective": ["Nazca"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice, War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [230, 230, 230],
+		"cities": ["Nazca"]
+	},
+	{
 		"name": "Vatican City",
 		"adjective": ["Vaticano"],
 		"cityStateType": "Religious",
@@ -787,6 +845,7 @@
 		"innerColor": [167, 162, 216],
 		"cities": ["Wittenberg"]
 	},
+	
 	{
 		"name": "McMurdo",
 		"adjective": ["Antarctic"],
@@ -812,6 +871,19 @@
 		"innerColor": [100,138,210],
 		"cities": ["Taruga"]
 	},
+	
+	{
+		"name": "Auckland",
+		"adjective": "Aucklander",
+		"cityStateType": "Productive",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"dedeated": "Please take care of our kiwis while you're here.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [230, 160, 60],
+		"cities": ["Auckland"]
+	},
 	{
 		"name": "Hong Kong",
 		"adjective": ["Hongkonger", "Hongkongese"],
@@ -825,15 +897,15 @@
 		"cities": ["Hong Kong"]
 	},
 	{
-		"name": "Auckland",
-		"adjective": "Aucklander",
+		"name": "Johannesburg",
+		"adjective": "Joburger",
 		"cityStateType": "Productive",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"dedeated": "Please take care of our kiwis while you're here.",
 		"outerColor": [0, 0, 0],
-		"innerColor": [200, 200, 60],
-		"cities": ["Auckland"]
+		"innerColor": [200, 150, 100],
+		"cities": ["Johannesburg"]
 	},
 ]
