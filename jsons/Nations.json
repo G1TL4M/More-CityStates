@@ -880,6 +880,8 @@
 		"declaringWar": "You leave us no choice, War it must be."
 		"attacked": "Very well, this shall not be forgotten",
 		"defeated": "A wrong calculation, on my part.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [105, 158, 190],
 		"cities": ["Nalanda"]
 	},
 	{
@@ -891,7 +893,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [100,138,210],
+		"innerColor": [100, 138, 210],
 		"cities": ["Taruga"]
 	},
 	
