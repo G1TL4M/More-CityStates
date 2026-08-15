@@ -426,6 +426,18 @@
 		"cities": ["Antwerp"]
 	},
 	{
+		"name": "Axum",
+		"adjective": ["Aksumite"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [186,223,136],
+		"cities": ["Axum"]
+	},
+	{
 		"name": "Cahokia",
 		"adjective": ["Cahokian"],
 		"cityStateType": "Mercantile",
@@ -486,6 +498,54 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [0, 163, 181],
 		"cities": ["Genoa"]
+	},
+	{
+		"name": "Great Zimbabwe",
+		"adjective": "Zimbabwean",
+		"cityStateType": ["Mercantile"],
+
+		"declaringWar": "You leave us no choice, War it must be."
+		"attacked": "Very well, this shall not be forgotten."
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [161,157,42],
+		"cities": ["Great Zimbabwe"]
+	},
+	{
+		"name": "Khartoum",
+		"adjectiv": ["Khartoumese"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice, War it must be."
+		"attacked": "Very well, this shall not be forgotten."
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [201,7,42],
+		"cities": ["Khartoum"]
+	},
+	{
+		"name": "Loulan",
+		"adiective": ["Loulan"],
+		"cityStateType": ["Mercantile"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255,186,27],
+		"cities": ["Loulan"]
+	},
+	{
+		"name": "Macau",
+		"adjective": ["Macau"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "I didn't want to do this. We declare war.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We were too weak to protect ourselves...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [15, 117, 98],
+		"cities": ["Macau"]
 	},
 	{
 		"name": "Nan Madol",
@@ -637,6 +697,18 @@
 		"cities": ["Budapest"]
 	},
 	{
+		"name": "Djibouti City",
+		"adjective": ["Djiboutian"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "Let's have a nice little War, shall we?",
+		"attacked": "You gormless radger! You'll dine on your own teeth before you set foot in Djibouti!.",
+		"defeated": "I should have never given you that military base...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [67,210,249],
+		"cities": ["Djibouti City"]
+	},
+	{
 		"name": "Dublin",
 		"adjective": ["Dubliner"],
 		"cityStateType": "Militaristic",
@@ -763,18 +835,6 @@
 		"cities": ["Bratislava"]
 	},
 	{
-		"name": "Geneva",
-		"adjective": ["Genevan", "Genevese"],
-		"cityStateType": "Religious", // Changed from Cultured to Religious in GK
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "I guess you weren't here for the sprouts after all...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [51, 97, 242],
-		"cities": ["Geneva"]
-	},
-	{
 		"name": "Ife",
 		"adjective": ["Ife"],
 		"cityStateType": "Religious", // Snatched from BNW
@@ -858,7 +918,31 @@
 		"innerColor": [167, 162, 216],
 		"cities": ["Wittenberg"]
 	},
-	
+
+	{
+		"name": "Geneva",
+		"adjective": ["Genevan", "Genevese"],
+		"cityStateType": "Scientific", // Changed from Cultured to Religious in GK
+
+		"declaringWar": "You leave us no choice. War it must be.", // Changed again to Scientific in MCS (I'm calling it that)
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [51, 97, 242],
+		"cities": ["Geneva"]
+	}
+	{
+		"name": "Fez",
+		"adjective": ["Fessi"],
+		"cityStateType": "Scientific",
+
+		"declaringWar": "You leave us no choice, War it must be."
+		"attacked": "Very well, this shall not be forgotten",
+		"defeated": "A wrong calculation, on my part.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [155, 168, 210],
+		"cities": ["Fez"]
+	},
 	{
 		"name": "McMurdo",
 		"adjective": ["Antarctic"],
