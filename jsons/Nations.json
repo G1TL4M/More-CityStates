@@ -871,6 +871,18 @@
 		"cities": ["Jerusalem"]
 	},
 	{
+		"name": "Kituwa",
+		"adjective": ["Cherokee"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps now we will find peace in death...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [237, 141, 113],
+		"cities": ["Kituwa"]
+	},
+	{
 		"name": "La Venta",
 		"adjective": ["La Venta"],
 		"cityStateType": "Religious",
