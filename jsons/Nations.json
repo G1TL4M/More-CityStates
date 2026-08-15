@@ -219,6 +219,19 @@
 		"cities": ["Daajing Giids"],
 	},
 	{
+		"name": "Iqaluit",
+		"adjective": ["Iqalummiut"],
+		"cityStateType": "Maritime",
+		"startBias": "Tundra",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "The day of judgement has come to us. But rest assured, the same will go for you!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255,178,102],
+		"cities": ["Iqaluit"],
+	},
+	{
 		"name": "Germa",
 		"adjective": ["Garamantes"],
 		"cityStateType": "Maritime",
@@ -357,6 +370,18 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [22,160,50],
 		"cities": ["Tae Rak"],
+	},
+	{
+		"name": "Tupinamba",
+		"adjective": ["Tupinamba"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "I have to do this, for the sake of progress if nothing else. You must be opposed!",
+		"attacked": "You can see how fruitless this will be for you... right?",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [193, 220, 103],
+		"cities": ["Tupinamba"]
 	},
 	{
 		"name": "Ur", // Introduced in BNW
@@ -794,6 +819,19 @@
 		"outerColor": [0, 0, 0], // I remember seeing a sort of flag for it and it was brown with a white crescent, and I hope this at least is brown
 		"innerColor": [178, 128, 20],
 		"cities": ["Ngazargamu"]
+	},
+	{
+		"name": "Potiguara",
+		"adjective": ["Potiguara"],
+		"cityStateType": "Militaristic",
+		"startBias": ["Coast"],
+
+		"declaringWar": "I have to do this, for the sake of progress if nothing else. You must be opposed!",
+		"attacked": "You can see how fruitless this will be for you... right?",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [193, 220, 103],
+		"cities": ["Potiguara"]
 	},
 	{
 		"name": "Sentinels",
