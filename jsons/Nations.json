@@ -1007,7 +1007,7 @@
 	
 	{
 		"name": "Auckland",
-		"adjective": "Aucklander",
+		"adjective": ["Aucklander"],
 		"cityStateType": "Productive",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -1031,7 +1031,7 @@
 	},
 	{
 		"name": "Johannesburg",
-		"adjective": "Joburger",
+		"adjective": ["Joburger"],
 		"cityStateType": "Productive",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -1041,4 +1041,16 @@
 		"innerColor": [200, 150, 100],
 		"cities": ["Johannesburg"]
 	},
+	{
+		"name": "Tzintzuntzan",
+		"adjective": ["Purepecha"],
+		"cityStateType": "Productive",
+
+		"declaringWar": "You leave us no choice, War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [210, 138, 100],
+		"cities": ["Tzintzuntzan"]
+	}
 ]
