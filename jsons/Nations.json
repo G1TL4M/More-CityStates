@@ -1055,6 +1055,18 @@
 		"cities": ["McMurdo"]
 	},
 	{
+		"name": "Mitla",
+		"adjective": ["Mixtec"],
+		"cityStateType": "Scientific",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [128, 121, 226],
+		"cities": ["Mitla"]
+	},
+	{
 		"name": "Nalanda",
 		"adjective": ["Nalanda"],
 		"cityStateType": "Scientific",
@@ -1090,6 +1102,18 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [230, 160, 60],
 		"cities": ["Auckland"]
+	},
+	{
+		"name": "Hattusa",
+		"adhective": ["Hittite"],
+		"cityStateType": "Productive",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How barbaric. Those who live by the sword shall perish by the sword.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [234, 107, 57],
+		"cities": ["Hattusa"]
 	},
 	{
 		"name": "Hong Kong",
