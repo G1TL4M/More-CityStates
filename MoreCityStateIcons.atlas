@@ -1,7 +1,14 @@
 MoreCityStateIcons.png
-size: 200, 100
+size: 400, 100
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
+CityStateIcons/Scientific
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 CityStateIcons/Productive
   rotate: false
   xy: 0, 0
@@ -9,9 +16,16 @@ CityStateIcons/Productive
   orig: 100, 100
   offset: 0, 0
   index: -1
+CityStateIcons/Strategic
+  rotate: false
+  xy: 0, 0
+  size: 300, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 CityStateIcons/Isolationist
   rotate: false
-  xy: 100, 0
+  xy: 400, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
