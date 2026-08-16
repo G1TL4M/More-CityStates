@@ -12,7 +12,7 @@
 		"uniques": ["Can only be created by Mercantile City-States"]
 	},
 	{
-		"nams": "Glass", // From a mod named More Luxuries
+		"name": "Glass", // From a mod named More Luxuries
 		"resourceType": "Luxury",
 		"gold": 1,
 		"production": 1,
