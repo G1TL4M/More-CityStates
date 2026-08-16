@@ -158,6 +158,18 @@
 		"cities": ["Monaco"]
 	},
 	{
+		"name": "Nuuk",
+		"adjective": ["Nuummioq"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "You fiend! History shall remember this!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [250, 240, 255],
+		"cities": ["Nuuk"]
+	},
+	{
 		"name": "Prague",
 		"adjective": ["Praguer", "Pragueite"],
 		"cityStateType": "Cultured",
@@ -683,6 +695,18 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [201,7,42],
 		"cities": ["Port Moresby"]
+	},
+	{
+		"name": "Reykjavik",
+		"adjective": ["Rekyjavik"],
+		"cityStateType": "Mercantile",
+		
+		"declaringWar": "You leave us no choice, War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [20,120,225],
+		"cities": ["Reykjavik"]
 	},
 	{
 		"name": "Singapore",
