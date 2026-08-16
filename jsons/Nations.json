@@ -181,6 +181,18 @@
 		"cities": ["Sanxingdui"]
 	},
 	{
+		"name": "Yakutsk",
+		"adjective": ["Yakut"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We were too weak to protect ourselves...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [129, 194, 225],
+		"cities": ["Yakutsk"]
+	},
+	{
 		"name": "Yerevan",
 		"adjective": ["Yerevantsi"],
 		"cityStateType": "Cultured",
@@ -1150,5 +1162,18 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [210, 138, 100],
 		"cities": ["Tzintzuntzan"]
+	},
+
+	{
+		"name": "Kyzyl",
+		"adjective": "Tuvan",
+		"cityStateType": "Isolationist", // This is a filler because I couldn't find much information on tuva, although I do want to add at least one isolationist
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We were too weak to protect ourselves...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [225, 225, 90],
+		"cities": ["Tuva"]
 	}
 ]
