@@ -62,6 +62,19 @@
 		"cities": ["Florence"]
 	},
 	{
+		"name": "Hadibu",
+		"adjective": ["Hadibu"],
+		"cityStateType": "Mercantile",
+		"startBias": ["Plains","Coast","Socatra"],
+		
+		"declaringWar": "You leave us no choice, War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Please take care of our island while you're here.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [200,230,125],
+		"cities": ["Hadibu"]
+	},
+	{
 		"name": "Kabul",
 		"adjective": ["Kabuli"],
 		"cityStateType": "Cultured",
