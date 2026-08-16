@@ -62,17 +62,16 @@
 		"cities": ["Florence"]
 	},
 	{
-		"name": "Hadibu",
-		"adjective": ["Hadibu"],
-		"cityStateType": "Mercantile",
-		"startBias": ["Plains","Coast","Socatra"],
+		"name": "Juneau",
+		"adjective": ["Juneauite"],
+		"cityStateType": "Cultured",
 		
 		"declaringWar": "You leave us no choice, War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Please take care of our island while you're here.",
+		"defeated": "I have failed. May you, at least, know compassion towards our people.",
 		"outerColor": [0, 0, 0],
-		"innerColor": [200,230,125],
-		"cities": ["Hadibu"]
+		"innerColor": [15, 10, 160],
+		"cities": ["Juneau"]
 	},
 	{
 		"name": "Kabul",
@@ -487,6 +486,18 @@
 		"cities": ["Acoma"]
 	},
 	{
+		"name": "Anchorage",
+		"adjective": ["Anchoragite"],
+		"cityStateType": "Mercantile",
+		
+		"declaringWar": "You leave us no choice, War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [222,180,105],
+		"cities": ["Anchorage"]
+	},
+	{
 		"name": "Antwerp",
 		"adjective": ["Antwerpenaar", "Antwerpian"],
 		"cityStateType": "Mercantile",
@@ -584,6 +595,19 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [161,157,42],
 		"cities": ["Great Zimbabwe"]
+	},
+	{
+		"name": "Hadibu",
+		"adjective": ["Hadibu"],
+		"cityStateType": "Mercantile",
+		"startBias": ["Plains","Coast","Socatra"],
+		
+		"declaringWar": "You leave us no choice, War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Please take care of our island while you're here.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [200,230,125],
+		"cities": ["Hadibu"]
 	},
 	{
 		"name": "Khartoum",
