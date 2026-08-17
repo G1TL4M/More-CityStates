@@ -205,6 +205,18 @@
 		"cities": ["Sanxingdui"]
 	},
 	{
+		"name": "Warsaw",
+		"adjective": ["Rekyjavik"],
+		"cityStateType": "Cultured",
+		
+		"declaringWar": "I must protect the interests of Poland. Surrender quickly so that this may end without bloodshed.",
+		"attacked": "So, you show your true nature: a serpent lying in the grass, easily trampled.",
+		"defeated": "No, I am not ready to leave God's service. I am just beginning his good work!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [228,117, 116],
+		"cities": ["Warsaw"]
+	},
+	{
 		"name": "Yakutsk",
 		"adjective": ["Yakut"],
 		"cityStateType": "Cultured",
@@ -658,6 +670,18 @@
 		"cities": ["Macau"]
 	},
 	{
+		"name": "Mikisiw-Wacihk",
+		"adjective": ["Cree"],
+		"cityStateType": "Mercantile",
+		
+		"declaringWar": "I do not care to inflict the terrors of war upon you, but justice requires it.",
+		"attacked": "You could have found another way. Now, your regrets will be measured in blood.",
+		"defeated": "Had I wanted war, I would not be here now. You did not catch me. I gave myself up.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [70,175,10],
+		"cities": ["Mikisiw-Wacihk"]
+	},
+	{
 		"name": "Nan Madol",
 		"adjective": ["Nan Madolian"],
 		"cityStateType": "Mercantile",
@@ -707,6 +731,18 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [20,120,225],
 		"cities": ["Reykjavik"]
+	},
+	{
+		"name": "Samarkand",
+		"adjective": ["Samarqandlik"],
+		"cityStateType": "Mercantile",
+		
+		"declaringWar": "You leave us no choice, War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [230,230,46],
+		"cities": ["Samarkand"]
 	},
 	{
 		"name": "Singapore",
@@ -918,6 +954,30 @@
 		"cities": ["Ngazargamu"]
 	},
 	{
+		"name": "Ngulu Mapu",
+		"adjective": ["Mapuche"],
+		"cityStateType": "Militaristic",
+		
+		"declaringWar": "It comes to war. Mapuche shall use your own weapons against you!",
+		"attacked": "I knew you could not be trusted! We have long prepared for this war. Have you?",
+		"defeated": "We resisted to the last, but it was too late â€¦ too late.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [117,163,243],
+		"cities": ["Ngulu Mapu"]
+	},
+	{
+		"name": "Pokrovka",
+		"adjective": ["Scythian"],
+		"cityStateType": "Militaristic",
+		
+		"declaringWar": "The Empress calls for your head. You will be drowned in your own blood!",
+		"attacked": "You have betrayed the trust of Tomyris and now you will pay!",
+		"defeated": "The Empress falls, but I will be remembered. Will you?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [121, 0, 2],
+		"cities": ["Pokrovka"]
+	},
+	{
 		"name": "Potiguara",
 		"adjective": ["Potiguara"],
 		"cityStateType": "Militaristic",
@@ -954,6 +1014,18 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [186, 18, 202],
 		"cities": ["Sidon"]
+	},
+	{
+		"name": "Ulundi",
+		"adjective": ["Zulu"],
+		"cityStateType": "Militaristic",
+		
+		"declaringWar": "There is too much weakness in you. Fear notâ€”the children of Zulu shall remove it.",
+		"attacked": "Strong words, but they quaver on your lips. Already I see you weaken in fear.",
+		"defeated": "True, you ended my reign. But I will live on in your nightmares.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [120, 62, 2],
+		"cities": ["Ulundi"]
 	},
 	{
 		"name": "Valletta",
