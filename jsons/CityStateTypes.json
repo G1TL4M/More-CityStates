@@ -95,6 +95,7 @@
     
     {
         "name": "Antarctic",
+        "uniques": "[+2 Food, +1 Gold, +1 Production] from [Snow] tiles [in capital]",
         "friendBonusUniques":  [
             "[+3 Science] <before the [Medieval era]>",
             "[+6 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
