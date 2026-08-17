@@ -1289,6 +1289,7 @@
 		"name": "McMurdo",
 		"adjective": ["Antarctic"],
 		"cityStateType": "Antarctic",
+		"uniques": ["[+2 Food, +1 Gold, +1 Production] from [Snow] tiles [in capital]"],
 		
 		"declaringWar": "You leave us no choice, War it must be.",
 		"attacked": "Good luck against our antarctic winds.",
