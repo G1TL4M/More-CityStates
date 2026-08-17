@@ -1186,19 +1186,7 @@
 		"innerColor": [155, 168, 210],
 		"cities": ["Fez"]
 	},
-	{
-		"name": "McMurdo",
-		"adjective": ["Antarctic"],
-		"cityStateType": "Scientific",
-		"startBias": ["Snow"],
-		
-		"declaringWar": "You leave us no choice, War it must be.",
-		"attacked": "Good luck against our antarctic winds.",
-		"defeated": "Please take care of our penguins while you're here.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [200,240,255],
-		"cities": ["McMurdo"]
-	},
+	
 	{
 		"name": "Mitla",
 		"adjective": ["Mixtec"],
@@ -1295,6 +1283,19 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [210, 138, 100],
 		"cities": ["Tzintzuntzan"]
+	},
+
+	{
+		"name": "McMurdo",
+		"adjective": ["Antarctic"],
+		"cityStateType": "Antarctic",
+		
+		"declaringWar": "You leave us no choice, War it must be.",
+		"attacked": "Good luck against our antarctic winds.",
+		"defeated": "Please take care of our penguins while you're here.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [200,240,255],
+		"cities": ["McMurdo"]
 	},
 
 	{
