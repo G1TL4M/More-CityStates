@@ -547,6 +547,18 @@
 		"cities": ["Axum"]
 	},
 	{
+		"name": "Bukhara",
+		"adiective": ["Bukharian"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [97,208,236],
+		"cities": ["Bukhara"]
+	},
+	{
 		"name": "Cahokia",
 		"adjective": ["Cahokian"],
 		"cityStateType": "Mercantile",
@@ -644,6 +656,18 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [201,7,42],
 		"cities": ["Khartoum"]
+	},
+	{
+		"name": "Kucha",
+		"adiective": ["Kuch"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [215,196,108],
+		"cities": ["Kucha"]
 	},
 	{
 		"name": "Loulan",
@@ -767,6 +791,18 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [181, 226, 126],
 		"cities": ["Solnitsata"]
+	},
+	{
+		"name": "Turpan",
+		"adiective": ["Turpan"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [168,77,236],
+		"cities": ["Turpan"]
 	},
 	{
 		"name": "Tyre",
